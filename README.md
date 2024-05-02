@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# ss9services.co.uk
-Website
-=======
-=======
->>>>>>> 3454d73ac8cacfb0e2439acd41745bc794973346
 Agency Jekyll theme
 ====================
 
@@ -35,7 +28,3 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
-<<<<<<< HEAD
->>>>>>> 2f26ca9 (theme)
-=======
->>>>>>> 3454d73ac8cacfb0e2439acd41745bc794973346

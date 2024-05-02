@@ -1,21 +1,6 @@
 url: https://crispyxuk.github.io
 baseurl: /ss9services
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/ss9services" # the subpath of your site, e.g. /blog
-url: "https://crispyxuk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-=======
-=======
->>>>>>> 3454d73ac8cacfb0e2439acd41745bc794973346
 # Site settings
 title: ss9services
 email: info@ss9services.co.uk
@@ -74,10 +59,6 @@ social:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
-<<<<<<< HEAD
->>>>>>> 2f26ca9 (theme)
-=======
->>>>>>> 3454d73ac8cacfb0e2439acd41745bc794973346
 
 # Build settings
 markdown: kramdown
